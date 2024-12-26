@@ -1,0 +1,8 @@
+streamlit
+mira-sdk
+requests
+python-dotenv
+# ...other dependencies...
+streamlit-extras
+streamlit-card 
+# ...existing dependencies...
