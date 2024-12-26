@@ -15,6 +15,8 @@ cp .env.template .env
 API_KEY=your_actual_api_key_here
 ```
 
-3. pip install requirements from requirements.txt; then run 
+3. Run pip install -r requirements.txt
 
-```streamlit run holidayplannerapp.py```
+4.Run 
+```
+streamlit run holidayplannerapp.py```
