@@ -15,7 +15,10 @@ cp .env.template .env
 API_KEY=your_actual_api_key_here
 ```
 
-3. Run pip install -r requirements.txt
+3. Run
+   ```
+   pip install -r requirements.txt
+   ```
 
 4.Run 
 ```
