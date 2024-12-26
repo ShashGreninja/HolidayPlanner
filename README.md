@@ -1,9 +1,9 @@
-# Holiday Planner App (Python 3.10.0 supported)
+**Holiday Planner App (Python 3.10.0 supported)**
 
-<!-- deployed app link -->
-""
+Deployed App Link:
+"https://planholidaysinago.streamlit.app/"
 
-## Setup for developers
+**Setup for developers**
 
 1. Copy `.env.template` to `.env`:
 ```bash
