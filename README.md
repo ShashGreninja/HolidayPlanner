@@ -16,9 +16,9 @@ API_KEY=your_actual_api_key_here
 ```
 
 3. Run
-   ```
-   pip install -r requirements.txt
-   ```
+```
+pip install -r requirements.txt
+```
 
 4.Run 
 ```
