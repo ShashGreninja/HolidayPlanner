@@ -1,4 +1,4 @@
-# Holiday Planner App
+# Holiday Planner App (Python 3.10.0 supported)
 
 <!-- deployed app link -->
 ""
@@ -15,6 +15,6 @@ cp .env.template .env
 API_KEY=your_actual_api_key_here
 ```
 
-3. Run 
+3. pip install requirements from requirements.txt; then run 
 
 ```streamlit run holidayplannerapp.py```
