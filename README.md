@@ -24,3 +24,5 @@ pip install -r requirements.txt
 ```
 streamlit run holidayplannerapp.py
 ```
+
+Refer to Mira flows documentation for further information on mira flows https://flow-docs.mira.network/documentation/get-started/introduction
