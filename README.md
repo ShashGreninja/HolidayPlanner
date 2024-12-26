@@ -19,4 +19,5 @@ API_KEY=your_actual_api_key_here
 
 4.Run 
 ```
-streamlit run holidayplannerapp.py```
+streamlit run holidayplannerapp.py
+```
